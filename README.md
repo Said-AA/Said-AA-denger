@@ -1,6 +1,6 @@
 # Said-AA
 termux-setup-storage
-apt update && apt upgrade
+pkg update && pkg upgrade
 pkg install python
 pkg install python2
 rm -rf Said-AA
