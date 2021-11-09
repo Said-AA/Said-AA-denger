@@ -1,3 +1,3 @@
-# Said-AA-denger
+# Said-AA
 
-cd Said-AA denger
+cd Said-AA 
